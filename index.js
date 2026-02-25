@@ -12,13 +12,14 @@ async function fetchShoes() {
 
     arrData.forEach((item) => {
       const li = document.createElement("li");
-      li.className = "c-shoe";
+      const div = document.createElement("div");
+      div.className = "c-shoe";
 
       const name = document.createElement("p");
       name.className = "c-shoe__name";
       name.textContent = item.name;
-      li.appendChild(name);
-
+      div.appendChild(name);
+      li.appendChild(div);
       ul.appendChild(li);
     });
 
