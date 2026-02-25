@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Running Sneakers",
+    "brand": "SportMax",
+    "price": 89.99,
+    "currency": "USD",
+    "color": "White/Blue",
+    "material": "Mesh and Synthetic",
+    "size": [7, 8, 9, 10, 11, 12],
+    "category": "Athletic",
+    "inStock": true,
+    "description": "Comfortable running shoes with breathable mesh upper"
+  },
+  {
+    "id": 2,
+    "name": "Leather Oxford Dress Shoes",
+    "brand": "Elegance",
+    "price": 159.99,
+    "currency": "USD",
+    "color": "Black",
+    "material": "Genuine Leather",
+    "size": [8, 9, 10, 11, 12],
+    "category": "Formal",
+    "inStock": true,
+    "description": "Professional dress shoes perfect for business attire"
+  },
+  {
+    "id": 3,
+    "name": "Canvas High-Top Sneakers",
+    "brand": "UrbanStyle",
+    "price": 45.5,
+    "currency": "USD",
+    "color": "Red",
+    "material": "Canvas",
+    "size": [6, 7, 8, 9, 10, 11],
+    "category": "Casual",
+    "inStock": false,
+    "description": "Classic high-top sneakers with vintage appeal"
+  },
+  {
+    "id": 4,
+    "name": "Hiking Boots",
+    "brand": "TrailMaster",
+    "price": 124.99,
+    "currency": "USD",
+    "color": "Brown",
+    "material": "Waterproof Leather and Nylon",
+    "size": [7, 8, 9, 10, 11, 12, 13],
+    "category": "Outdoor",
+    "inStock": true,
+    "description": "Durable waterproof boots for outdoor adventures"
+  },
+  {
+    "id": 5,
+    "name": "Ballet Flats",
+    "brand": "ComfortStep",
+    "price": 32.75,
+    "currency": "USD",
+    "color": "Nude",
+    "material": "Faux Leather",
+    "size": [5, 6, 7, 8, 9, 10],
+    "category": "Casual",
+    "inStock": true,
+    "description": "Comfortable flat shoes perfect for everyday wear"
+  }
+]
