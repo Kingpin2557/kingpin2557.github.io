@@ -7,7 +7,6 @@ async function fetchShoes() {
     const arrData = await res.json();
 
     const div = document.querySelector(".js-shoes");
-
     const ul = document.createElement("ul");
 
     arrData.forEach((item) => {
